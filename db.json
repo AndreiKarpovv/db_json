@@ -1,0 +1,28 @@
+{"services":[
+  {
+      "image" : "https://www.perforce.com/sites/default/files/styles/social_preview_image/public/image/2020-01/image-blog-future-software-development.png?itok=eO9Fa9k-",
+      "title" : "Software Devolopment",
+      "description" : "Software development is the process programmers use to build computer programs."
+  },
+  {
+      "image" : "https://www.netcov.com/wp-content/filemgr/2019/05/cloud-services-difference_network-coverage.jpg",
+      "title" : "Cloud Services and Hosting Solutions",
+      "description" : "Cloud hosting is the ability to make applications and websites available on the internet using the cloud."
+  },
+  {
+      "image" : "https://www.technologysolutions.net/wp-content/uploads/2023/07/cyber-security-scaled-2560x1280.jpeg",
+      "title" : "Cybersecurity Solutions",
+      "description" : "Cyber security solutions are technological tools and services that help protect organizations against cyber attacks."
+  },
+  {
+      "image" : "https://www.creative-tim.com/blog/content/images/size/w960/2022/01/which-development-job-is-right-for-you.jpg",
+      "title" : "Web Development",
+      "description" : "Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser."
+  },
+  {
+      "image" : "https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg",
+      "title" : "Data Analytics",
+      "description" : "Data analytics converts raw data into actionable insights."
+  }
+]
+}
